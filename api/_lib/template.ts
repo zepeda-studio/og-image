@@ -68,6 +68,7 @@ function getCss(theme: string, fontSize: string) {
         align-content: center;
         justify-content: center;
         justify-items: center;
+        border-radius: 50%;
     }
 
     .logo {
